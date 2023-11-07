@@ -1,0 +1,7 @@
+{
+  "name": "lec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
